@@ -13,7 +13,6 @@ I'm a 26 year old guy looking to improve as a backend developer, I love to devel
 - ⚡ Fun fact: Big fan of Avenged Sevenfold and AC Milan.
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
 
 ## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
