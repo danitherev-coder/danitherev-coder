@@ -2,16 +2,15 @@ Hi, I am Danitherev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
-I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
+I'm a 26 year old guy looking to improve as a backend developer, I love to develop efficient and scalable Rest Api using best practices.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on YOLO v5
-- 🌱 I’m currently learning custom object detection
-- 👯 I’m looking to collaborate on Computer Vision
+- 🌱 I’m currently learning microservices with Spring Cloud
+- 👯 I’m looking to collaborate on project of backend
 - 🤔 I’m looking for a good project
-- 💬 Ask me about Computer Vision
-- 📫 How to reach me: [maitysourab@gmail.com](mailto:maitysourab@gmail.com)
+- 💬 Ask me about Backend Development with Nodejs and Java
+- 📫 How to reach me: [carlos.saavedra.chu98@gmail.com](carlos.saavedra.chu98@gmail.com)
 - 😄 Pronouns: He
-- ⚡ Fun fact: Big fan of 🌈
+- ⚡ Fun fact: Big fan of Avenged Sevenfold and AC Milan.
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
