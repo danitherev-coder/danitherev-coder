@@ -101,15 +101,10 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/danitherev/" target="_blank">
-    <img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907110_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="LinkedIn" height="40" width="45" />
-  </a>
-  &nbsp;
+<a href="https://www.linkedin.com/in/danitherev/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="sarath-p-m" height="40" width="45" /></a>
+&nbsp;
   <!-- Gmail -->
-  <a href="mailto:carlos.saavedra.chu98@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" alt="Gmail" height="40" width="45" />
-  </a>
-  &nbsp;
+<a href="mailto:carlos.saavedra.chu98@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="sarath2375@gmail.com" width="40" /></a>      
   <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/20854475/carlos-daniel" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" height="40" width="45" />
@@ -121,8 +116,17 @@
   </a>
 </p>
 
+  <h1 align="center">Hi Geeks, I'm Sarath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<div align="center">
   
-  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
+
+</div>
+
+
+
+
 
 -----
 Credits: [Sarath P M](https://github.com/sarath-pm)
