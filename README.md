@@ -1,5 +1,5 @@
 <p>Hola soy Carlitossssss <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></p>
-<p align = center ><img src="[https://imgur.com/a/iJyvHMz](https://prnt.sc/-l2odK0ji9Ia)"> </p>
+<p align = center ><img src="https://prnt.sc/-l2odK0ji9Ia"> </p>
 
 <div>
 
